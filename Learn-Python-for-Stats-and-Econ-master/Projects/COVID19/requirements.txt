@@ -1,0 +1,8 @@
+pandas 
+geopandas
+numpy
+matplotlib
+ipywidgets
+mpl_toolkits
+voila
+pyarrow
